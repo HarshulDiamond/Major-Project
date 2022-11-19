@@ -1,8 +1,6 @@
 
 
 #   Seat Belt Detection Using Opencv And Python Based On Line Detection
-#   Coder: Syed Naveed Abbas
-#   Email: programmingconcepts101@gmail.com
 
 
 import cv2
